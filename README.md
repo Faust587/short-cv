@@ -2,8 +2,8 @@
 
 ## Contacts
 
-- Telegram: [\@gmanka3](https://t.me/faust587)
-- GitHub: [\@gmankab](https://github.com/Faust587)
+- Telegram: [\@Faust](https://t.me/faust587)
+- GitHub: [\@Faust](https://github.com/Faust587)
 
 ## Stack
 
